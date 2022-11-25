@@ -13,7 +13,7 @@
 
 
 
-// // Task2
+// // Task2 option1
 // const mainArray = [1, 2, 3, 4, 5, 6, 7];
 
 // function DeleteDigit45(array) {
@@ -28,6 +28,11 @@
 
 // console.log(mainArray);
 // console.log(DeleteDigit45(mainArray));
+
+// option2
+// const mainArray = [1, 2, 3, 4, 5, 6, 7];
+// mainArray.splice(3, 2);
+// console.log(mainArray);
 
 
 
