@@ -32,6 +32,7 @@ addEventListener('click', function (e) {
         console.log('Not inqlude');
     }
 })
+// Тут нехватает ещё проверок на то, ткнул ли пользователь вне тега body
 
 
 
