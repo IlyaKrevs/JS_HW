@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    max-width: 50px;
+    max-height: 50px;
+}
+
+.video_player {
+    position: relative;
+    display: flex;
+    flex-direction: column-reverse;
+    width: 800px;
+}
+
+
+
+.video_controls {
+
+
+    position: absolute;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.timing_line {
+    display: block;
+    width: 100%;
+}
+
+.timingVideo {
+    width: 100%;
+}
+
+.bottom_control {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
